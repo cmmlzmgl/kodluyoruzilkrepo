@@ -8,6 +8,6 @@ Bu repo [Kodluyoruz](kodluyoruz.org) Front-End eğitiminde oluşturduğumuz ilk 
 
 Oncelikle projeyi clonelayın.
 
-'''
+```
 [](https://github.com/cmmlzmgl/kodluyoruzilkrepo)
-'''
+```
