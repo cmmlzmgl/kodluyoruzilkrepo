@@ -11,3 +11,6 @@ Oncelikle projeyi clonelayın.
 ```
 https://github.com/cmmlzmgl/kodluyoruzilkrepo
 ```
+## Licence
+
+[MIT](https://choosealicense.com/licenses/mit/)
